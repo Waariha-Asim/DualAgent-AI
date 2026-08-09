@@ -12,41 +12,28 @@ Built as part of the **NeuroFive Solutions Generative AI & Prompt Engineering In
 
 ## 🖥️ Application Preview
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 ### ✍️ Agent 1 — Writer Output
 
-<img src="Agent%20Prompt%20Outputs/Agent%201%20Output.png" width="100%" height="520" alt="Agent 1 Writer Output">
+<img src="Agent%20Prompt%20Outputs/Agent%201%20Output.png" width="100%" alt="Agent 1 Writer Output">
 
-</td>
-<td width="50%" align="center">
+---
 
 ### 🧠 Agent 2 — Editor Output
 
-<img src="Agent%20Prompt%20Outputs/Agent%202%20Output.png" width="100%" height="520" alt="Agent 2 Editor Output">
+<img src="Agent%20Prompt%20Outputs/Agent%202%20Output.png" width="100%" alt="Agent 2 Editor Output">
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
+---
 
 ### 🖥️ Main UI
 
-<img src="Agent%20Prompt%20Outputs/Main%20UI.png" width="100%" height="520" alt="DualAgent AI Main UI">
+<img src="Agent%20Prompt%20Outputs/Main%20UI.png" width="100%" alt="DualAgent AI Main UI">
 
-</td>
-<td width="50%" align="center">
+---
 
 ### ✨ Final Refined Output
 
-<img src="Agent%20Prompt%20Outputs/Final%20Output.png" width="100%" height="520" alt="Final Refined Output">
+<img src="Agent%20Prompt%20Outputs/Final%20Output.png" width="100%" alt="Final Refined Output">
 
-</td>
-</tr>
-</table>
 
 ---
 
