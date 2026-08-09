@@ -18,14 +18,14 @@ Built as part of the **NeuroFive Solutions Generative AI & Prompt Engineering In
 
 ### ✍️ Agent 1 — Writer Output
 
-<img src="Agent%20Prompt%20Outputs/Agent%201%20Output.png" width="100%" alt="Agent 1 Writer Output">
+<img src="Agent%20Prompt%20Outputs/Agent%201%20Output.png" width="100%" height="520" alt="Agent 1 Writer Output">
 
 </td>
 <td width="50%" align="center">
 
 ### 🧠 Agent 2 — Editor Output
 
-<img src="Agent%20Prompt%20Outputs/Agent%202%20Output.png" width="100%" alt="Agent 2 Editor Output">
+<img src="Agent%20Prompt%20Outputs/Agent%202%20Output.png" width="100%" height="520" alt="Agent 2 Editor Output">
 
 </td>
 </tr>
@@ -35,14 +35,14 @@ Built as part of the **NeuroFive Solutions Generative AI & Prompt Engineering In
 
 ### 🖥️ Main UI
 
-<img src="Agent%20Prompt%20Outputs/Main%20UI.png" width="100%" alt="DualAgent AI Main UI">
+<img src="Agent%20Prompt%20Outputs/Main%20UI.png" width="100%" height="520" alt="DualAgent AI Main UI">
 
 </td>
 <td width="50%" align="center">
 
 ### ✨ Final Refined Output
 
-<img src="Agent%20Prompt%20Outputs/Final%20Output.png" width="100%" alt="Final Refined Output">
+<img src="Agent%20Prompt%20Outputs/Final%20Output.png" width="100%" height="520" alt="Final Refined Output">
 
 </td>
 </tr>
@@ -254,20 +254,6 @@ The `.env` file is excluded from Git through `.gitignore`.
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🎯 Project Objective
-
-The project demonstrates the fundamentals of **agentic AI and multi-agent orchestration** by giving two AI agents distinct responsibilities within the same workflow.
-
-Rather than asking one model to simultaneously create and critique its own work, the system separates these responsibilities:
-
-**Writer → Creates**
-
-**Editor → Reviews & Refines**
-
-This provides a simple foundation for extending the architecture toward more advanced multi-agent systems involving research agents, fact-checking agents, planning agents, tool-using agents, and specialized domain agents.
 
 ---
 
